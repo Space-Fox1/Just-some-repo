@@ -5,3 +5,5 @@ Roadmap:
 2. Faster update checking(May not be possible?)
 3. Widespread adopting by people in my school
 4. Smaller QR codes(Link shorteners? Compression algorithms?)
+
+**And to any school staff, please put a issue into report if you want this takne down. I can push a update to remove everything.**
