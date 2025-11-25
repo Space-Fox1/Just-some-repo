@@ -1,2 +1,7 @@
 Dont mind this, its just for my file sharing shortcut. Only cause my school banned airdrop and people want to share images.
-Oh and yes, I used some AI. Im sorry, but I'm am idiot and its a simple JSON.
+
+Roadmap:
+1. Better way to show the QR codes
+2. Faster update checking(May not be possible?)
+3. Widespread adopting by people in my school
+4. Smaller QR codes(Link shorteners? Compression algorithms?)
